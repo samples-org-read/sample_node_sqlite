@@ -37,4 +37,5 @@ after_script:
 cache: true  
 branches:
   except:
-    - test-master   
+    - test-master  
+    - cache
