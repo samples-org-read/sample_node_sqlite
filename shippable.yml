@@ -15,7 +15,6 @@ before_script:
   - mkdir -p shippable/testresults
   - mkdir -p shippable/codecoverage
 
-
 archive: true
 
 addons:
